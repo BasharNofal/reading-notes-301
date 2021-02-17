@@ -29,5 +29,8 @@
 
 ***
 
+### REGEX (Regular Expressions)
 
+**REGEX** are expressions that can be used to extract information from a certain text by specifying a certain word or expression that you are looking for in addition to some symbols that make your search even more specific. 
 
+This tool can be used for almost all programming languages even in the terminal when searching for a certain text inside of a file.
